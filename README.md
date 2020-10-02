@@ -1,2 +1,6 @@
-# myGit
-云计算学习1
+Hello-world
+==========
+
+My first repository on Github!
+
+I love :coffee:, :apple:, and :swimming:,
