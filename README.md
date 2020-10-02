@@ -3,4 +3,4 @@ Hello-world
 
 My first repository on Github!
 
-I love :coffee:, :apple:, and :swim:,
+I love :coffee:, :apple:, and :sport:,
